@@ -1,8 +1,17 @@
 # 📢 Dot Net Learners House Meetup – Monthly Event - Mar 2025
 
-![Information | 100x100](../Documentation/Images/Information.PNG)
+## Date Time: 16-Mar-2025 at 09:00 AM IST
 
-![Seat Belt | 100x100](../Documentation/Images/SeatBelt.PNG)
+## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920](https://www.meetup.com/dot-net-learners-house-hyderabad/events/304750920)
+
+## YouTube URL: [https://www.youtube.com/watch?v=rrZqYt2YDFM](https://www.youtube.com/watch?v=rrZqYt2YDFM)
+
+
+
+![Information | 100x100](./Documentation/Images/Information.PNG)
+
+![Seat Belt | 100x100](./Documentation/Images/SeatBelt.PNG)
+
 
 
 
@@ -22,6 +31,8 @@ By the end of this session, attendees will:
 - "At the end of this session, we’ll have a chat interface ready, and in the next session, Sowmya will integrate it with Flask."
 
 ---
+
+![Seat Belt | 100x100](../Documentation/Images/SystemArchitecture.jpg)
 
 ### *2️⃣ Setting Up the React Project (4 min)*
 - *Create a new project using Vite:*  
