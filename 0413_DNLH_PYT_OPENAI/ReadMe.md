@@ -7,9 +7,9 @@
 ## YouTube URL: 
 
 
-![Information | 100x100](./Documentation/Images/Information.PNG)
+![Information | 100x100](/Documentation/Images/Information.PNG)
 
-![Seat Belt | 100x100](./Documentation/Images/SeatBelt.PNG)
+![Seat Belt | 100x100](/Documentation/Images/SeatBelt.PNG)
 
 
 
