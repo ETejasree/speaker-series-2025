@@ -4,7 +4,10 @@
 
 ## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/306640169](https://www.meetup.com/dot-net-learners-house-hyderabad/events/306640169)
 
+
+
 ![Information | 100x100](./Documentation/Images/Information.PNG)
+
 
 ![Seat Belt | 100x100](./Documentation/Images/SeatBelt.PNG)
 
@@ -32,7 +35,7 @@ In this module, we will cover the following concepts:
 ---
 # Condition statement:
 
-![condition | 100x100](./Documentation/Images/condition.PNG)
+![condition | 100x100](./Documentation/Images/condition.jpg)
 
 Conditional statements allow a program to make decisions and take different actions depending on certain conditions. In Python, the main conditional statements are if, elif, and else.
 
@@ -46,7 +49,7 @@ These statements help control the flow of the program and allow it to behave dif
 
 IF STATEMENT:
 
-![If stmt | 100x100](./Documentation/Images/ifstmt.PNG)
+![If stmt | 100x100](./Documentation/Images/if%20stmt.jpg)
 
 The if statement is used in programming to check if a condition is true. If it is, the program runs a certain block of code. If not, it skips that part. This helps the program make decisions. For example, if a number is greater than 0, it can print "Positive number." The if statement is a simple but powerful tool to control what the program does.
 
@@ -57,7 +60,7 @@ if condition:
 ```
 IF ELSE STATEMENT:
 
-![ifelse | 100x100](./Documentation/Images/ifelse.PNG)
+![ifelse | 100x100](./Documentation/Images/ifelse.jpg)
 
 The if-else statement is used in programming to choose between two options. If a condition is true, the code inside the if block runs. If the condition is false, the code inside the else block runs instead. This helps the program decide what to do in different situations.
 
@@ -71,7 +74,7 @@ else:
 ---
 IF ELIF STATEMENT:
 
-![elif | 100x100](./Documentation/Images/elif.PNG)
+![elif | 100x100](./Documentation/Images/elif.jpg)
 
 The if-elif statement is used to check multiple conditions. It starts with an if. If that condition is false, it checks the next one using elif. As soon as one condition is true, that block of code runs, and the rest are skipped. This helps the program choose between many options.
 
@@ -86,7 +89,7 @@ else:
 ```
 FOR LOOPS:
 
-![forloop| 100x100](./Documentation/Images/forloop.PNG)
+![forloop| 100x100](./Documentation/Images/forloop.jpg)
 
 A for loop is used in programming to repeat a block of code a certain number of times. It is often used to go through items in a list, string, or range of numbers.
 
@@ -105,7 +108,7 @@ The indented code block runs for each item in the sequence
 
 WHILE LOOPS:
 
-![whileloop| 100x100](./Documentation/Images/whileloop.PNG)
+![whileloop| 100x100](./Documentation/Images/whileloop.jpg)
 
 🔁 While Loop Syntax:
 
@@ -117,7 +120,8 @@ condition – the loop keeps running as long as this is true
 
 The indented code block runs again and again until the condition becomes false
 
-![control stmt| 100x100](./Documentation/Images/controlstmt.PNG)
+![Control stmt | 100x100](./Documentation/Images/control%20stmt.png)
+
 Loop Control Statements help manage how loops behave in a program.
 
 break stops the loop immediately.
