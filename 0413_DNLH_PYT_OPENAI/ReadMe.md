@@ -117,7 +117,7 @@ condition – the loop keeps running as long as this is true
 
 The indented code block runs again and again until the condition becomes false
 
-![control flow| 100x100](./Documentation/Images/controlflow.PNG)
+![control stmt| 100x100](./Documentation/Images/controlstmt.PNG)
 Loop Control Statements help manage how loops behave in a program.
 
 break stops the loop immediately.
