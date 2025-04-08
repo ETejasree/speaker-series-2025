@@ -3,7 +3,6 @@
 ## Date Time: 13-APR-2025 at 04:00 AM IST
 
 ## Event URL: [https://www.meetup.com/dot-net-learners-house-hyderabad/events/306640169](https://www.meetup.com/dot-net-learners-house-hyderabad/events/306640169)
- 
 
 
 ![Information | 100x100](./Documentation/Images/Information.PNG)
