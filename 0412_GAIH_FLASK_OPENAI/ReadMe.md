@@ -1,14 +1,16 @@
-# 📢 GLOBAL AI HYDERABAD - 2025
+# 📢 Global AI Bootcamp 2025 Hyderabad - 12 April 2025 - 2025
 
 ## Date Time: 12-apr-2025 at 09:00 AM IST
 
-## Event URL:
+## Event URL:https://www.meetup.com/global-ai-hyderabad/events/306095644/
+
+![poster | 100x100](./Documentation/Images/poster.jpg)
+
+![mvp| 100x100](./Documentation/Images/mvp.jpg)
 
 ![Information | 100x100](./Documentation/Images/Information.PNG)
 
 ![Seat Belt | 100x100](./Documentation/Images/SeatBelt.PNG)
-
-
 
 
 ## *🎯 Goal of the Session:*  
@@ -118,8 +120,7 @@ npm run dev
 
 "Today, we built a fully responsive and styled chat UI using React and Tailwind.  
 Next time, we’ll connect it to our backend for real-time interaction.  
-Thanks for joining!"
 
----
-
+## Thank You.
+Feel free to check out the code or reach out if you’d like to contribute or use this in your own apps!
 Let me know if you want this as a slide outline or a printable handout!
